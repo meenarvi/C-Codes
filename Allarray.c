@@ -235,7 +235,7 @@ int main()
        Q=mainmenu();
        break;
       default:
-       printf("\n INVALID OPTION");
+       printf("\n VALID OPTION");
       }
       
     }
